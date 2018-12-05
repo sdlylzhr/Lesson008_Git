@@ -22,7 +22,7 @@ public class LoginViewServlet extends HttpServlet {
         request.getRequestDispatcher("/WEB-INF/pages/login.jsp")
                 .forward(request,response);
 
-
+        // test
 
     }
 }
